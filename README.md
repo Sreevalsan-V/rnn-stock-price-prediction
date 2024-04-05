@@ -1,5 +1,8 @@
 # Stock Price Prediction
 
+### SREEVALSAN 
+### 212223240158
+
 ## AIM
 
 To develop a Recurrent Neural Network model for stock price prediction.
